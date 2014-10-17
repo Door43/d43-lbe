@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lbe:home|Door43 (lbe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lbe|d43-lbe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lbe/archive/master.zip|d43-lbe.zip]]
+
+**Recent Changes**
+{{changes>ns = lbe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lbe|Ethnologue data]]
+
